@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Viktor
+
+🎓 **BSc in Computer Science ** at TU Dublin (Tallaght Campus) 
+💡 Passionate about **Data Analysis**, **Databases**, and **Software Development**
+🌱 Currently learning **Python**, **SQL**, and **Data Visualization**
+
+
+### 🌐 Connect With Me
+- Linkedln - https://www.linkedin.com/in/syvakviktor/
+- Github - https://github.com/ViktorSyvak
 
 <!--
 **ViktorSyvak/ViktorSyvak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
