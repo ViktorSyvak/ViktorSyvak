@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Viktor
 
-🎓 **BSc in Computer Science ** at TU Dublin (Tallaght Campus)
+🎓 BSc in Computer Science @ TU Dublin (Tallaght Campus)
 💡 Passionate about **Data Analysis**, **Databases**, and **Software Development**
 🌱 Currently learning **Python**, **SQL**, and **Data Visualization**
 
