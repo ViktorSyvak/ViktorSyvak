@@ -3,7 +3,8 @@
 🎓 BSc in Computer Science @ TU Dublin (Tallaght Campus)
 💡 Passionate about **Data Analysis**, **Databases**, and **Software Development**
 🌱 Experience with **Python**, **SQL**, **Data Visualization**, **Machine Learning**
-🤔 Currently learning (self-taught) Java
+🤔 
+Currently learning (self-taught) Java
 
 
 
